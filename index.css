@@ -1,0 +1,49 @@
+body{
+  background-image:url("back-3.jpg");
+  background-size:cover;
+   
+} 
+div{
+    background-color: #a4c3b2;
+    margin-top: 90px;
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 6px;
+    box-shadow: 2px 2px 5px;
+    text-align: center;
+    font-family :Verdana, Geneva, Tahoma, sans-serif;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+h1.ex1:hover{
+     font-size: 40px;
+}
+.btn-style{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 8px;
+   width: 230px;
+   height: 30px;
+   font-weight:bolder;
+   border: 2px solid black;
+   border-radius: 5px;
+}
+h2{
+    margin-top: 30px;
+    font-size: 15px;
+}
+.btn-increment{
+    
+    background-color: #f07167;
+}
+
+button.btn-style:hover{
+   box-shadow: 2px 2px 5px black;
+
+}
+.btn-newEntry{
+    background-color: #52796f;
+}
